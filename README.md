@@ -1,3 +1,3 @@
 # daily_life
 
-## [vscode]()
+## [vscode](https://github.com/letianpai5/daily_life/blob/main/vscode.md)
