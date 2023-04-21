@@ -5,3 +5,5 @@
 ## [chatGPT](https://github.com/letianpai5/daily_life/blob/main/chatGPT.md)
 
 ## [NBA观看](https://www.luxiangwu.com/nbazhibo/)
+
+## [影视网](https://github.com/letianpai5/daily_life/blob/main/film_webs.md)
