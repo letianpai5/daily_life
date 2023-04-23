@@ -11,3 +11,5 @@
 ## [NBA观看](https://www.luxiangwu.com/nbazhibo/)
 
 ## [影视网](https://github.com/letianpai5/daily_life/blob/main/film_webs.md)
+
+## [插件](https://github.com/letianpai5/daily_life/blob/main/%E6%8F%92%E4%BB%B6.md)
