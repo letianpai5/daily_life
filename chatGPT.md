@@ -6,8 +6,6 @@
     >  
     >  https://gpt.anoyi.com/
     >  
-    >  https://supremes.pro/
-    >  
     >  https://chat.wuguokai.cn/#/chat/1681488156478
     >  
     >  https://chat.aidutu.cn/#/chat/1002
