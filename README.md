@@ -15,3 +15,5 @@
 ## [插件](https://github.com/letianpai5/daily_life/blob/main/%E6%8F%92%E4%BB%B6.md)
 
 ## [软件资源](https://github.com/letianpai5/daily_life/blob/main/softwares.md)
+
+## [居家运动项目](https://s.xsj.qq.com/SxnvuBVV)
