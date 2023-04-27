@@ -2,6 +2,8 @@
 
 ## [居家运动项目](https://s.xsj.qq.com/SxnvuBVV)
 
+## [Git最全内容整理，这一篇就够了](https://blog.51cto.com/u_15739596/6220325)
+
 ## [软件资源](https://github.com/letianpai5/daily_life/blob/main/softwares.md)
 
 ## [chatGPT](https://github.com/letianpai5/daily_life/blob/main/chatGPT.md)
