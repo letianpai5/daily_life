@@ -8,6 +8,6 @@
     - 密码:9ry5
     - [最好点击此处来实现无广告，推广人数](https://wwde.lanzouf.com/ivk4x0u3qp1g)
     - 密码:c8i3
-- 
+- [修改电脑ip的方法](https://www.91ajs.com/information/change-ip-for-computer.html)
 
 
