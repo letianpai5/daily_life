@@ -9,5 +9,6 @@
     - [最好点击此处来实现无广告，推广人数](https://wwde.lanzouf.com/ivk4x0u3qp1g)
     - 密码:c8i3
 - [修改电脑ip的方法](https://www.91ajs.com/information/change-ip-for-computer.html)
-
+- [apk软件](https://apkcombo.com/zh/)
+    - APKCombo是一个提供Android应用程序和游戏的平台。它可以让你下载最新版本的应用程序和游戏，还可以让你下载旧版本的应用程序和游戏。
 
