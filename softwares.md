@@ -12,4 +12,4 @@
 - [apk软件](https://apkcombo.com/zh/)
     - APKCombo是一个提供Android应用程序和游戏的平台。它可以让你下载最新版本的应用程序和游戏，还可以让你下载旧版本的应用程序和游戏。
 - [QQ机器人](https://drea.cc/)
-- [查重网站]()
+- [查重网站](https://github.com/letianpai5/daily_life/blob/main/1.md)
