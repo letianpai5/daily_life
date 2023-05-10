@@ -4,6 +4,10 @@
 
 ## [学习内容](https://github.com/letianpai5/daily_life/blob/main/study_contents.md)
 
+## [机场](https://github.com/letianpai5/owner_vpn)
+
+## [代理工具](https://github.com/letianpai5/daily_life/blob/main/proxy_tools.md)
+
 ## [软件资源](https://github.com/letianpai5/daily_life/blob/main/softwares.md)
 
 ## [chatGPT](https://github.com/letianpai5/daily_life/blob/main/chatGPT.md)
@@ -13,10 +17,6 @@
 ## [影视网](https://github.com/letianpai5/daily_life/blob/main/film_webs.md)
 
 ## [插件](https://github.com/letianpai5/daily_life/blob/main/%E6%8F%92%E4%BB%B6.md)
-
-## [机场](https://github.com/letianpai5/owner_vpn)
-
-## [代理工具](https://github.com/letianpai5/daily_life/blob/main/proxy_tools.md)
 
 ## [VsCode](https://github.com/letianpai5/daily_life/blob/main/vscode.md)
 
