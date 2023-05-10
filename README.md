@@ -2,8 +2,6 @@
 
 ## [居家运动项目](https://s.xsj.qq.com/SxnvuBVV)
 
-## [学习内容](https://github.com/letianpai5/daily_life/blob/main/study_contents.md)
-
 ## [机场](https://github.com/letianpai5/owner_vpn)
 
 ## [代理工具](https://github.com/letianpai5/daily_life/blob/main/proxy_tools.md)
