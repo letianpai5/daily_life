@@ -2,10 +2,6 @@
 
 ## [居家运动项目](https://s.xsj.qq.com/SxnvuBVV)
 
-## [机场](https://github.com/letianpai5/owner_vpn)
-
-## [代理工具](https://github.com/letianpai5/daily_life/blob/main/proxy_tools.md)
-
 ## [软件资源](https://github.com/letianpai5/daily_life/blob/main/softwares.md)
 
 ## [chatGPT](https://github.com/letianpai5/daily_life/blob/main/chatGPT.md)
@@ -18,5 +14,6 @@
 
 ## [VsCode](https://github.com/letianpai5/daily_life/blob/main/vscode.md)
 
+## [代理工具](https://github.com/letianpai5/daily_life/blob/main/proxy_tools.md)
 
 
