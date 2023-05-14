@@ -18,3 +18,5 @@
 - typora 快捷键
     - https://blog.51cto.com/runixcn/4556024
     - https://blog.csdn.net/Alexhcf/article/details/109450755
+
+- [知乎小说免费看](https://yx.cbge.top/)
